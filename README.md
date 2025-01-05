@@ -1,14 +1,20 @@
-Hi👋🏻 How are you?
-I'm Sohan, a passionate tech enthusiast driven by a relentless curiosity and the inner fire to create something extraordinary.
-
-Let's connect! Who knows, we might collaborate and turn great ideas into reality. Looking forward to building something amazing together!
+<h4>
+  Hi👋🏻 How are you? <br>
+  
+  I'm Sohan, a tech enthusiast eager to learn <br>
+  fueled by an inner roaring to build something incrediable.
+</h4>
+<h4>
+  
+  Let's Connect! 🤝
+</h4>
 
 <h3 align="left">Connect:</h3>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/sohansahoo" target="_blank">
+  <a href="https://www.linkedin.com/in/sohansahoo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/sohansahooo" target="_blank">
@@ -65,8 +71,6 @@ Let's connect! Who knows, we might collaborate and turn great ideas into reality
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohansahooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
