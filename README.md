@@ -10,11 +10,9 @@ How are you? <br>
 
 I'm a tech enthusiast on the path to becoming a **SWE**, <br>
 eager to learn and fueled by an inner drive to build something incredible.
-<h4>
-  Let's Connect! 🤝
-</h4>
 
-<h3 align="left">Connect:</h3>
+
+<h3 align="left">🤝 Let's Connect:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/sohansahoo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -29,8 +27,6 @@ eager to learn and fueled by an inner drive to build something incredible.
 </div>
 
 ###
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=sohansahooo)
 
