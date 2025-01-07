@@ -6,11 +6,9 @@
 
 ## Hi... I'm Sohan  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
  
-How are you? <br>
+**How are you?** <br>
 
-I'm a tech enthusiast on the path to becoming a **SWE**, <br>
-eager to learn and fueled by an inner drive to build something incredible.
-
+I'm a passionate tech enthusiast on an exciting journey to becoming a **SWE**. I'm driven by an insatiable curiosity to learn and grow, constantly seeking new challenges and opportunities to expand my knowledge. Fueled by an inner determination, I am committed to creating innovative and impactful solutions that can make a difference. My goal is to transform ideas into reality and build something truly incredible.
 
 <h3 align="left">🤝 Let's Connect:</h3>
 <div align="left">
@@ -28,6 +26,8 @@ eager to learn and fueled by an inner drive to build something incredible.
 
 ###
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 ![](https://komarev.com/ghpvc/?username=sohansahooo)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tech Stack:**
