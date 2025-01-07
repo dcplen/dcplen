@@ -8,9 +8,21 @@
  
 **How are you?** <br>
 
-I'm a passionate tech enthusiast on an exciting journey to becoming a **SWE**. I'm driven by an insatiable curiosity to learn and grow, constantly seeking new challenges and opportunities to expand my knowledge. Fueled by an inner determination, I am committed to creating innovative and impactful solutions that can make a difference. My goal is to transform ideas into reality and build something truly incredible.
+- 🌟 Currently working on **Software** development & building innovative solutions.
+
+- 🤝 Looking to collaborate in any dev project, I can adapt seamlessly.
+
+- 🔍 Seeking help to enhance skills in **Full-Stack Development & Surfing 🏄🏻‍♂️**.
+
+- 📚 Currently learning most thing and exploring **Trending** technologies.
+
+- 💬 Feel free to ask about WebApp development and how to drift 🏎️💭.
+
+- ⚡ Fun fact: Balancing a tech journey with regular fitness and staying active!
+
 
 ###
+![](https://komarev.com/ghpvc/?username=sohansahooo)
 
 <h3 align="left">🤝 Let's Connect:</h3>
 <div align="left">
@@ -20,18 +32,17 @@ I'm a passionate tech enthusiast on an exciting journey to becoming a **SWE**. I
   <a href="https://x.com/sohansahooo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.com/sohansahooo" target="_blank">
+  <a href="https://discord.gg/QHEnTN5Z" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://instagram.com/sohansahooo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
-![](https://komarev.com/ghpvc/?username=sohansahooo)
 
 ###
 
@@ -41,7 +52,7 @@ I'm a passionate tech enthusiast on an exciting journey to becoming a **SWE**. I
 
 ###
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats:</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats:**
 <div align="center">
   <a href="https://github.com/sohansahooo"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohansahooo&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a> <br>
   <img src="https://streak-stats.demolab.com?user=sohansahooo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
