@@ -10,6 +10,8 @@
 
 I'm a passionate tech enthusiast on an exciting journey to becoming a **SWE**. I'm driven by an insatiable curiosity to learn and grow, constantly seeking new challenges and opportunities to expand my knowledge. Fueled by an inner determination, I am committed to creating innovative and impactful solutions that can make a difference. My goal is to transform ideas into reality and build something truly incredible.
 
+###
+
 <h3 align="left">🤝 Let's Connect:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/sohansahoo" target="_blank">
@@ -27,8 +29,11 @@ I'm a passionate tech enthusiast on an exciting journey to becoming a **SWE**. I
 ###
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
+
+###
 ![](https://komarev.com/ghpvc/?username=sohansahooo)
+
+###
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tech Stack:**
 
