@@ -54,8 +54,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats:**
 <div align="center">
-  <a href="https://github.com/sohansahooo"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohansahooo&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a> <br>
-  <img src="https://streak-stats.demolab.com?user=sohansahooo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://github.com/sohansahooo"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohansahooo&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohansahooo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
