@@ -8,22 +8,10 @@
  
 **How are you?** <br>
 
-- 🌟 Currently working on **Software** development & building innovative solutions.
-
-- 🤝 Looking to collaborate in any dev project, I can adapt seamlessly.
-
-- 🔍 Seeking help to enhance skills in **Full-Stack Development & Surfing 🏄🏻‍♂️**.
-
-- 📚 Currently learning most thing and exploring **Trending** technologies.
-
-- 💬 Feel free to ask about WebApp development and how to drift 🏎️💭.
-
-- ⚡ Fun fact: Balancing a tech journey with regular fitness and staying active!
-
+💼 Open to collaborations
 
 ###
-![](https://komarev.com/ghpvc/?username=sohansahooo)
-
+<!--![](https://komarev.com/ghpvc/?username=dcplen)-->
 <h3 align="left">🤝 Let's Connect:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/sohansahoo" target="_blank">
@@ -54,8 +42,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats:**
 <div align="center">
-  <a href="https://github.com/sohansahooo"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohansahooo&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohansahooo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <a href="https://github.com/dcplen"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcplen&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dcplen&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 <div align="center">
